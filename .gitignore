@@ -3,5 +3,6 @@
 .ipynb_checkpoints
 __pycache__
 tempCodeRunnerFile.py
-data/
+Breast Histopathology Images/data/*
+!Breast Histopathology Images/data/content.txt
 log/
