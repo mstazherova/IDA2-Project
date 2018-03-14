@@ -8,3 +8,4 @@ Breast Histopathology Images/data/*
 log/
 Breast Histopathology Images/padded/*
 Breast Histopathology Images/resized/*
+Breast Histopathology Images/logs/*
