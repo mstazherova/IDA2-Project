@@ -29,7 +29,4 @@ The data folder should contain the following folders with the data:
 10291	12821	12895	13020	13694	15510	16568	9036	9250	9383
 10292	12822	12896	13021	13916	15512	16569	9037	9254
 
-After padding the images with the pad_data() function there should also be a
-folder that contains all images called:
-
-padded
+After padding the images with the pad_data() function a new folder called "padded" with the same structure will be created.
